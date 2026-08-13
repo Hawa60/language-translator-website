@@ -1,22 +1,22 @@
-# 🌍 Multilingual Translator Website
+#  Multilingual Translator Website
 
 A simple and responsive website built using **HTML**, **CSS**, and **JavaScript**. The website demonstrates how to change the displayed content into different languages using a dropdown menu.
 
 ## 📌 Features
 
-- 🌐 Multi language support
-- 🔽 Language selection dropdown
-- 📱 Responsive design for desktop and mobile
-- 🎨 Clean and modern user interface
-- ⚡ Fast and lightweight
+-  Multi language support
+-  Language selection dropdown
+-  Responsive design for desktop and mobile
+-  Clean and modern user interface
+-  Fast and lightweight
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 translator-website/
@@ -25,7 +25,7 @@ translator-website/
 └── script.js
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -33,7 +33,7 @@ translator-website/
 
 No installation or additional software is required.
 
-## 🌍 Supported Languages
+##  Supported Languages
 
 - English 🇬🇧
 - Spanish 🇪🇸
